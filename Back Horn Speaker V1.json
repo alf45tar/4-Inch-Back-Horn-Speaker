@@ -1,0 +1,42 @@
+{
+    "parameterSets": {
+        "Pioneer TS-1005": {
+            "$fa": "1",
+            "$fs": "0.4",
+            "corner_rad": "5",
+            "depth": "150",
+            "display": "",
+            "driver1_fraction": "0.5",
+            "extra_elec_depth": "0",
+            "height": "120",
+            "make_back_plate": "false",
+            "make_display_test": "false",
+            "make_left_side": "false",
+            "make_mounting_holes": "true",
+            "make_right_side": "false",
+            "make_test_piece": "false",
+            "make_waveguide": "true",
+            "mounting_holes_pcd_1": "117",
+            "mounting_holes_rad_1": "1.5",
+            "num_drivers": "1",
+            "num_mounting_holes_1": "4",
+            "nut_AF": "5.7",
+            "nut_thickness": "2.5",
+            "omit_nut_slots": "",
+            "polyRoundFn": "5",
+            "rot_mounting_holes_1": "0",
+            "screw_diam_back": "3.3",
+            "screw_diam_sides": "3.3",
+            "side_fillet": "2",
+            "side_recess": "1.5",
+            "side_thickness": "4",
+            "speaker_hole_diam_1": "100",
+            "wave_fillet": "1.5",
+            "width": "225"
+        }
+    },
+    "parameterSets": "",
+    "fileFormatVersion": "1",
+    "parameterSets": "",
+    "parameterSets": ""
+}
